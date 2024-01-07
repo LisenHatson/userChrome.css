@@ -1,6 +1,5 @@
 <div align="center">
 
-  ![Screenshot of Firefox with the userChrome.css applied](https://raw.githubusercontent.com/ericmurphyxyz/userChrome.css/main/screenshot.png)
   
 </div>
 
