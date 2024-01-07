@@ -5,9 +5,9 @@
 
 # userChrome.css
 
-A Firefox stylesheet meant to be minimalistic while still being usable with the mouse. Look, I love my keyboard shortcuts as much as anyone else, but sometimes it's more convenient to use the browser with the mouse.
+A Firefox stylesheet meant to be minimalistic while still being usable with the mouse.
 
-This theme has only been tested on my specific setup and there is no guarantee it will work anywhere else. Regardless, if you try it and run into any issues, feel free to open an issue or a pull request.
+This theme has only been tested on Eric Murphy's specific setup and there is no guarantee it will work anywhere else. Regardless, if you try it and run into any issues, feel free to open an issue or a pull request.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Enable the option `toolkit.legacyUserProfileCustomizations.stylesheets` from you
 
 Any theme and density should work, but the theme is meant to be used with Firefox's default Dark theme (not the System theme) and Compact density (enabled with the option `browser.compactmode.show` in `about:config`).
 
-If you want to watch a video explaining the installation process, [watch my video here](https://www.youtube.com/watch?v=0QVs1jVuA8c).
+If you want to watch a video explaining the installation process, [watch Eric Murphy's video here](https://www.youtube.com/watch?v=0QVs1jVuA8c).
 
 ## Credits
-Based off [FirefoxCSS-Darknight](https://github.com/BriLHR/FirefoxCSS-Darknight) and [keyfox](https://github.com/AlfarexGuy2019/keyfox/), with additional lines from [Cascade](https://github.com/andreasgrafen/cascade).
+Based off [FirefoxCSS-Darknight](https://github.com/BriLHR/FirefoxCSS-Darknight) and [keyfox](https://github.com/AlfarexGuy2019/keyfox/), with additional lines from [Cascade](https://github.com/andreasgrafen/cascade) [Eric Murphy's userChrome.css](https://github.com/ericmurphyxyz/userChrome.css).
